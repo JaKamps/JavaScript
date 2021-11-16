@@ -1,0 +1,105 @@
+1. javaScript is een programeer taal
+2. je kan javaScript gebruiken voor effecten op je website maar ook om webaplication te maken
+3. JavaScript is a high-level, dynamic, untyped, and interpreted programming language.
+4. een webapplicatie is een applicatie dat je in de browser kunt out voeren
+5. ECMAScript 5
+6. with the import function
+7. een value is de hoeveelhied/betekenis
+8. een variabele is een genoemde ruimte
+9. een variable naam is de naam van de variabele
+10.
+11. bepaalde richtlijnen voor code
+12. a
+13. c
+14. An exception caused by the incorrect use of a pre-defined syntax.
+17. een datatype is wat voor soort value iets is bij voorbeeld: een string dat zijn letters of numbers dat zijn numers
+18. je kan commentaar code gebruiken om je code overzichterlijker te maken of om een stukje code uit tezetten of als je iets moet onthouden kan je het er ook in commentaar code neer zetten
+19. bij "herder" print je herder in het console  en bij herder print je een variable met de naam herder in het console
+20. because big companies cant just update all at once the older outdated technieques have to be supported
+21. 1. b 2. c 3. a
+22. nee want het heeft geen waarde
+23. ja want de waarde kan later veranderen
+24. een operator zijn tekens waar mee je kunt rekenen 
+25. = work gebruikt om waarde te geven aan een variable  == kijkt of ze gelijk zijn === kijkt of alles gelijk is 
+26. in de console staat 20
+27. 45
+28. False
+29. -10
+30. false
+31. False
+32. true
+33. -10
+34. 5 volgende keer dat je het gebruikt word het 6
+35. 45
+36. 6
+37. een operator precedence is de volgorde welke eerst berekent word  console.log(4 * 3 ** 10);
+38. from left to right
+39. 
+40.conditional
+
+
+1. een string is een value dat op gemaakt is met letters
+2. +
+3. jorn is stupid
+4. jorn is briljant
+5. hello ${firstName}
+6. syntax error
+7. boolean
+8. de order waar in een stuk code word out gevoort
+9.  omdat het een structuur van volgorde is voor een bepaalde functie
+
+1. conversion is waneer je handmatig een type verandert naar een andere terwijl coercion is waneer het automatisch gaat
+2. Number
+3. '1'
+4. 5512
+5. 12
+6. 2512
+7. 37
+8. 5512
+9. error
+10. error
+11. a flase value
+12. a true value
+13 niet waar
+14. niet waar
+15. niet waar
+16. niet waar
+17. niet waar
+18. waar
+19. niet waar
+20. unexpected input
+21. unexpected input
+22.== is het zelfde waarde === is het zelfde waarde en type
+23. ok..
+24. het begint van het begin
+25. het begint van het begin
+26. ja
+27. ja
+28. ja
+29. ja
+30. nee'
+31. het kan niet betekenen bijvoorbeeld if (!blaader)  zo hier is het als blaader niet waar is
+32. false true
+33. true true
+34. true true true
+35. you do something you like probably in the public sector
+36.you do something you like
+37. i want junkfood
+38.je wilt de tweede op de eerste positie hebben omdat die dan voor de !junkfood word uit gevoerd
+
+
+
+1. een switch statement is doet iets als een bepaalde conditie is met
+2. hardcodded value's zijn de const value's die niet veranderen 
+3. omdat de code ander de heletijd doorgaat
+4. konijn
+5. konijn
+6. 
+7. konijn
+8.  koe
+9. vos
+10. konijn
+11. vos
+12. konijn
+13. een expresion maakt een value en een statement maakt geen value
+14. een ternary operator heeft twee gedeeltens the condition the if part en de else part

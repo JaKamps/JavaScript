@@ -1,0 +1,353 @@
+1. 
+const huidigeSchool = "ROC ";
+const vorigeSchool = "Arcus ";
+const hoogsteDiploma = "PIE ";
+console.log(huidigeSchool + vorigeSchool + hoogsteDiploma);
+
+2. 
+const age = 19
+3. string
+4. nummer
+5. string
+6. boolean
+7. string
+8. string
+9. 
+const firstName = "Jorn";
+// hi
+const lastName = "Schmitz"; /* hi */
+10.
+console.log(typeof "konijn");
+11. 
+const myYear = 2002;
+const years = 2021
+let myAge;
+myAge = years - myYear;
+12. 
+console.log(myAge);
+
+13.
+console.log(myAge * 2);
+14.
+console.log(myAge / 2);
+15. 
+const straat = botter;
+const nummer = 19;
+console.log(straat + number);
+16.
+const numberOne = 12;
+const numberTwo = 15;
+console.log(numberOne + numberTwo);
+console.log(numberTwo + numberOne);
+17.  
+console.log(numberTwo * numberOne);
+console.log(numberOne * numberTwo);
+18.
+console.log(numberOne + 1);
+console.log(++numberOne);
+19.
+console.log(numberOne - 1);
+console.log(--numberOne);
+20.
+const vader = 183;
+const moeder = 178;
+console.log((vader * 3 + moeder) / 4);
+21.const vader = 192
+const moeder = 153;
+console.log((moeder * 3 + vader) /4);
+22. 
+/*const weight = 90;
+const height = 1.95;
+console.log(weight / (height * height));*/
+
+let weight = 93;
+let height;
+let bmi = 28.6;
+console.log((bmi / weight) / 2);
+23.
+console.log(bmi * (height * height));
+
+
+
+1.
+const voorNaam = "Jorn";
+const achterNaam = " Kamps ";
+const leefTijd = 19;
+
+console.log(voorNaam + actherNaam + leefTijd);
+2.
+console.log("mijn naam is " + voorNaam);
+3.
+console.log("mijn voledige Naam is " + voorNaam + achterNaam);
+4. console.log("in 2056 ben ik 54");
+5.
+console.log("Mijn naam is " + voorNaam + "en ik ben" + leefTijd + "Daarnaast is mijn familie naam" + achterNaam);
+6.
+const event = "regen";
+if (event === "regen"){
+  console.log("ik neem een paraplu mee naar buiten:)
+else{
+ console.log("dan zet ik mijn zonnebril op");
+7.
+const event = "grass geel"
+if (event === "grass geel"){
+  console.log("ik geef het grass water")
+else{
+ console.log("dan zet ik mijn zonnebril op");
+8.
+const event = "winter";
+if (event === "winter"){
+  console.log("Brrr ik zet de verwarming aan")
+else{
+ console.log("ik ga dansen op de tafel");
+9. 
+const event = "regent hard";
+if (event === "regent hard"){
+  console.log("ik doe mijn regen jass aan")
+else{
+ console.log("ik neem mijn paraplu mee");
+
+
+
+1.
+const x = 1;
+const y = "1";
+const z = 2;
+
+console.log(x + y - z);
+2.
+console.log(z - x -y);
+3.
+console.log(z + y - x);
+4. 
+console.log(y + z + x );
+5. console.log(y + x + z );
+6.
+const event = "regen";
+if (event === "regen"){
+  console.log("ik neem een paraplu mee naar buiten:)
+7.
+else if (event === "zon"){
+ console.log("dan zet ik mijn zonnebril op");
+else{ console.log("neem ik mijn heumuer mee");
+8.
+const event = "regen";
+if (event === "regen"){
+  console.log("ik neem een paraplu mee naar buiten:)
+else if (event === "zon"){
+ console.log("dan neem ik mijn zonnebril mee");
+9. 
+let event = "maandag";
+if (event === "maandag"){
+ console.log("ik ga kickboxen");
+else if( event === dinsdag){
+  console.log("ik ga boxen");
+else if (event === "donderdag" || "vrijdag"){
+ console.log("ik ga BBJ doen");
+default{
+ console.log("ik ga patat op halen en thuis opeten")
+10.
+console.log((9.4 + 3.8 + 2.7 + 6.7 + 8.9) / 5);
+11.
+console.log(sophie = (9.4 + 3.8 + 2.7 + 6.7 + 8.9 * 2) / 5 );
+12. 
+console.log(sarah = (9.4 + 3.8 + 2.7 + 6.7 + 8.9) / 5);
+13. Sofie heeft de hoogste met een 8
+14.
+let sophie;
+let sarah;
+console.log(sophie = (9.4 + 3.8 + 2.7 + 6.7 + 8.9 * 2) / 5 );
+console.log(sarah = (9.4 + 3.8 + 2.7 + 6.7 + 8.9) / 5);
+if(sophie > sarah){
+ console.log("sophie is de betere student");
+}else if(sophie > sarah){
+  console.log("sarah is de betere student");
+}else{
+ console.log("they are both just as good");
+}
+15.
+
+let sophie;
+let sarah;
+console.log(sophie = (9.4 + 3.8 + 2.7 + 6.7 + 8.9 * 2) / 5 );
+console.log(sarah = (9.4 + 3.8 + 2.7 + 6.7 + 8.9) / 5);
+if(sophie > sarah){
+ console.log("sophie is de betere student");
+}else if(sophie > sarah){
+  console.log("sarah is de betere student");
+}else{
+ console.log("they are both just as good");
+}
+if (sophie > 7) {
+ console.log("goed gedaan");
+} if(sarah > 7) {
+  console.log("goed gedaan");
+
+
+16.
+let age = 19;
+let studie = true:
+
+if(age >= 18 && studie){
+  console.log("Whiee stufi");
+}else{
+  console.log("Helaas geen studie financiering =(";
+
+17.
+let age = 19;
+let studie = true;
+let thuisWonen = true;
+
+if(age >= 18 && studie && Thuiswonen){
+  console.log("Whiee stufi");
+}else if(age >= 18 && studie){
+  console.log("Whiee veel stufi");
+}else{
+  console.log("Helaas geen studie financiering =(";
+18. als zij achtien of ouder is ja
+19. ja als zijn studeert
+
+
+
+1.
+let dag = "monday";
+let kerst = true
+if(kerst === true){
+  console.log("ik eet kalkoen");
+}else{
+  switch(dag){
+    case 'maandag'
+    case 'donderdag'
+    case 'vrijdag':
+      console.log("ik eet falafel en sla");
+      break;
+    case 'dinsdag'
+    case 'woensdag':
+      console.log("ik eet spinazie");
+      break;
+    case 'zaterdag'
+    case 'zondag':
+      console.log("ik eet linzensoep");
+      break;
+}
+
+3.
+const car = "audi";
+if(car === "audi"){
+  console.log("great");
+}else if(car === "mercedes"){
+  console.log("bit great");
+}else if(car === "BMW"){
+  console.log("Hmm...");
+}else if(car === "Opel"){
+  console.log("Ok?");
+default{
+console.log("not so Great");
+}
+4.
+const car = "Audi";
+if(day === "Audi" || day === "porsche"){
+  console.log("great");
+}else if(car === "mercedes"){
+  console.log("bit great");
+}else if(car === "BMW"){
+  console.log("Hmm...");
+}else if(car === "Opel"){
+  console.log("OK");
+}else{
+  console.log("not great");
+}
+5.
+const car = "Audi";
+if(day === "Audi" || day === "porsche"){
+  console.log("great");
+}else if(car === "mercedes"){
+  console.log("bit great");
+}else if(car === "BMW"){
+  console.log("Hmm...");
+}else if(car === "Opel"){
+  console.log("OK");
+}else{
+  console.log("not great");
+}
+6.
+const job = "teacher";
+switch(job)(
+  case "Developer":
+    console.log("LIKE!");
+    break;
+  case "Teacher":
+  case "Consultant":
+    console.log("Nice...");
+    break;
+  default:
+    console.log("i dont know..");
+    break;
+7.
+const job = "teacher";
+switch(job)(
+  case "Developer":
+  case "Retired":
+    console.log("LIKE!");
+    break;
+  case "Teacher":
+  case "Consultant":
+    console.log("Nice...");
+    break;
+  default:
+    console.log("i dont know..");
+    break;
+8.
+const dag = "maandag"
+const eten = day === "maandag" ? 'patat' : 'pannenkoeken' 
+console.log("ik eet" eten);
+9.
+const car = "audi";
+if(car === "audi"){
+  console.log("Great");
+}else{
+  console.log("Meh");
+}
+10.
+let sentence;
+if(5 > 12){
+sentence = 'Whieee';
+}else{
+sentence = 'Whaaa';
+
+11.
+let sentence;
+if(false){
+sentence = 'Whaaa';
+}else{
+sentence = 'Whieee';
+}
+
+12. 
+let sentence
+
+if(sentence === false){
+  sentence = 'whieee
+}else{ 
+sentence = 'Whaaa'
+}console.log('hello, i shout out the sentence ${sentence} and i am 
+     if(sentence.lenght > 5){
+       sentence = 'happy';
+      }else{ sentence = "not so happy";
+      }
+
+13. 
+let city = 'amsterdam';
+city = city === 'amsterdam' ? console.log("koetjekoe") : console.log("deze prachtige stad is het niet");
+console.log(city); 
+
+14.
+let city = 'amsterdam';
+city = city === 'amsterdam' ? 'koetjekoe' : koetjekoe';
+
+console.log(${city === 'amsterdam' ? 'koetjekoe' : koetjekoe';}
+
+15. 
+let city = 'amsterdam'
+place = city == 'amsterdam' && true ? 'koetjekoe' : 'koetjeboeboe';
+console.log(place);
