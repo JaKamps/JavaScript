@@ -1,0 +1,49 @@
+1. strict mode shows where you made a mistake that javascript it self would not show
+2.boven aan maar je kan het ook voor bepaalde stukken activeeren
+3. zo dat je minder of geen bugs kréert
+4. een function een een stuck code dat je met een word can uit voeren
+5. een variable heeft een value maar een function is een stukje code
+6. een function body is het stukje code van een function
+
+function apple(){
+console.log("this is the body")
+}
+
+7. a=6 b=1 c=2 d=3,4 e=5
+
+8. nothing
+9. Cheese
+10. Cheese Cheese
+11. je krijgt 3 knuffels van mij <3
+12. je krijgt 12 knuffels van mij <3
+13. je krijgt 1 
+14. Unexpected token, expected ","
+15 Unexpected token, expected ","
+16  Unexpected token, expected ","
+17.
+18. 4
+19. 4 4
+20. 8
+21. 12
+22. waneer die ge exuteert word
+23. undefined undefined
+24. function declaration is when you start with the function and function expression is when you only use it to get a out going value
+25. 
+
+the areguments will be on the spots of the parameters when the function is executed
+
+function miney(parameter1, parameter2){
+   console.log("${parameter1} is parameter1 and ${parameter2} is parameter2");
+}
+
+miney(argument1, argument2);
+
+26. een arrow functions is a special function that uses =>
+27. omdat deze functie een => gebruikt
+28. met een function arrow schrijf je vooral het code en met de function declaration schrijft je het uit gebreidt
+29. 5
+30. 8
+31. 34
+32.henk works as a teacher and hank is happy
+33. frits works as a develover and frits is happy
+34. hank works as a teacher and hank is very 
