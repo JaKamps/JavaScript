@@ -47,3 +47,4 @@ miney(argument1, argument2);
 32.henk works as a teacher and hank is happy
 33. frits works as a develover and frits is happy
 34. hank works as a teacher and hank is very 
+35. 
