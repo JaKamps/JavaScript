@@ -47,4 +47,67 @@ miney(argument1, argument2);
 32.henk works as a teacher and hank is happy
 33. frits works as a develover and frits is happy
 34. hank works as a teacher and hank is very 
-35. 
+35. the dont repeat yourself principle is om niet  dont repeat values maar maak er variable van die je in e code toe past
+
+let = personAge1(1991);
+let = personAge2(2002);
+
+console.log(personAge1);
+console.log(personAge2);
+
+
+const personAge1 = function(birthYear) {
+  return 2021 - birthYear;
+}
+
+const personAge2 = function (birthYear) {
+  return 2021 - birthYear;
+}
+
+in plaats van het gebruiken van 2021 het jaar dat het is kan je het beter een variable van maken zo dat je niet elke jaar ze allemaal hoeft aan te passen
+zo doe je dit
+
+let = currentYear(2021);
+
+const personAge1 = function(birthYear) {
+  return currentYear - birthYear;
+}
+
+const personAge2 = function (birthYear) {
+  return currentYear - birthYear;
+}
+
+36. de return key maakt de uitkomst van een som wat de variable geeft as waarde
+37. omdat x and y geen waarde is gegeven
+
+1. een structuur van data
+2. een array is een structuur waar je meerdere gerelateerde values in kan zetten
+3. je kan een lijst met data opslaan er in
+4. friends
+5. b because nothing is declared so its not a array and its a const so it cant add any value to it
+6.  niks wat er is geen console.log maar als numbers well in een console.log staat is het (2) [5, 7]
+7. 2 3
+8. 2 5 27
+9. 3 5 27
+10. undefined
+11. dan moet je het in de console loggen
+12. undifined
+13. NaN
+14. NaN
+15. x is not difined
+16. FriendOne is not difined
+17. Henk frits kees
+18. x is not difined
+19.x is not difined
+20. 0  1
+21. 0 1
+22. true true
+23. -2
+24. great  true
+1. objects are values about something for example a person you have age proffesion hobby ect while a array has verschillende values dat met elkaar te maken hebben         de order van de objects maakt niet uit maar het maakt well uit in de array
+2. een key is een variable voor de object
+3. een value is is well a normal value like boolean string numbers ect
+4. een key value pair is the key with the value together
+5. properties zijn de values dat aan een object zit
+6.  
+
