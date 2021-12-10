@@ -109,5 +109,131 @@ const personAge2 = function (birthYear) {
 3. een value is is well a normal value like boolean string numbers ect
 4. een key value pair is the key with the value together
 5. properties zijn de values dat aan een object zit
-6.  
+6.  a. variable ,  b. property c. value,  d. methods e. 
+7. when it has a space in it or if you use it in console.log you use the bracket one
+8. henk henk
+9. de vries
+10. firstName
+11. firstName
+12. de vries  de vries  hello world
+13. true
+14. Henk de Vries
+15. Henk de Vries
+16. Piet Janssens
+17. 21
+18. 21
 
+
+
+1.
+2. a.loop, b.element. c. counter, d.condition, e.update, f.function 
+3. 0 1 2 3
+4. 0 0 1 2 2 4 3 6
+5. 2 4 
+6. nothing
+7. 2 3 
+8. 2 1 0
+9. 0 3 6 8 10
+10. Koe Herder
+11. Koe Herder
+12. als je sport voor een ritme
+13. continue gaat door met de for loop en niet met de code die er onder staat
+for(i = 0; i <= 5: i++){
+ if(i=3;) continue
+console.log(hi)
+it doesnt do the hi if the continue condition is true 
+14. een break stopt de loopt 
+if(i=0; i <=10; i++){
+  if(i=5;){
+    console.log("thats the half way stop point");
+    break;
+  }
+  console.log(i);
+}
+en de loop stopt bij 5 van wegen de break
+15. for loop is for aslong as this thing is less equal/or greater or equeal ect do this while while is as long as this is true do this
+a. if you want to use a function while a certained condition is true and you use for if you want to create a certained amount of loops
+16. working on subpart 1!
+test.js:4 working on subpart 1!
+test.js:4 working on subpart 2!
+test.js:4 working on subpart 3!
+test.js:4 working on subpart 4!
+test.js:4 working on subpart 5!
+test.js:6 /n
+test.js:2 working on subpart 2!
+test.js:4 working on subpart 1!
+test.js:4 working on subpart 2!
+test.js:4 working on subpart 3!
+test.js:4 working on subpart 4!
+test.js:4 working on subpart 5!
+test.js:6 /n
+test.js:2 working on subpart 3!
+test.js:4 working on subpart 1!
+test.js:4 working on subpart 2!
+test.js:4 working on subpart 3!
+test.js:4 working on subpart 4!
+test.js:4 working on subpart 5!
+test.js:6 /n
+
+17. Ik tel tot 10
+Ik tel tot 9
+Ik tel tot 8
+Ik tel tot 7
+Ik tel tot 6
+Ik tel tot 5
+Ik tel tot 4
+Ik tel tot 3
+Ik tel tot 2
+Ik tel tot 1
+Ik tel tot 0
+
+18.
+Ik tel tot 10
+Ik tel tot 9
+Ik tel tot 8
+Ik tel tot 7
+Ik tel tot 6
+Ik tel tot 5
+Ik tel tot 4
+Ik tel tot 3
+Ik tel tot 2
+Ik tel tot 1
+Ik tel tot 0
+
+ontwikkelaars opdrachten
+
+1. 
+
+const currentYear = 2021;
+const currentDay= 341;
+const birthYear = calcAge1(1991)
+const birthDay = calcDay1(240)
+let dayCalc = 0;
+let dayCalc2;
+
+function calcAge1(birthYear) {
+    return 2021 - birthYear;
+}
+
+function calcDay1(birthDay){
+    if(birthDay >= currentDay){
+        return currentDay - birthDate;
+    }
+    if(birthDay < currentDay){
+        calcAge1--
+        dayCalc = currentDay - birthDay;
+        dayCalc2 = 365 - dayCalc;
+        return 365 - dayCalc2
+    }
+}
+
+console.log(`you are ${birthYear} years and ${birthDay} days old`)
+
+
+
+
+
+// if day = less then birthday -1 year;  365 - remaining days till birthday
+// if day = more then birthday; day - birthday = days
+
+2. because it asked the length of the array friends in the object Henks and the answer is 2
