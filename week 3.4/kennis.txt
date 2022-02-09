@@ -237,3 +237,106 @@ console.log(`you are ${birthYear} years and ${birthDay} days old`)
 // if day = more then birthday; day - birthday = days
 
 2. because it asked the length of the array friends in the object Henks and the answer is 2
+
+
+vaardigheid opdrachten
+
+1. function roep{
+  console.log("mijn eerste functie");
+}
+1a. roep;
+
+2.function roep{
+  return "mijn eerste functie"
+}
+2a.  roep; 
+2b. const roep = function{
+  return "my first function";
+
+2c. console.log(roep);
+
+3. function getallOptellen(numerEen, numerTwee){
+  return numerEen + numerTwee;
+  console.log(getallOptellen);
+
+4.function getallAftreken(eersteGetal, tweedeGetal){
+  return eersteGetal - tweedeGetal;
+  console.log(getallAftreken);
+}
+5.function keer(numerOne, numerTwo, numerThree, numberFour){
+  return numerOne * numberTwo * numberThree * numberFour;
+}
+ 
+5a. keer(4, 5, 6, 7);
+5b. keer(2, 3, 4, 5);
+5c. console.log(keer);
+
+6. //const wieIsGroter = function(getallEen, getallTwee){
+//  if(getallEen > getalTwee){
+//    console.log('${getallEen} is groter dan ${getalTwee}');
+//  }
+//  elseif(getallEen < getallTwee){
+//    console.log('${getallTwee} is groter dan ${getallEen}');
+//  } 
+// else{
+//    console.log(' ${getallEen} en ${getallTwee} zijn even groot');
+//  }
+//}
+
+const wieIsGroter = function(getallEen, getallTwee){
+  if(getallEen > getalTwee){
+    console.log(getallEen);
+  }elseif(getallEen < getallTwee){
+    console.log(getallTwee);
+  }else{
+    console.log('${getallEen} en ${getallTwee} zijn even groot');
+  }
+}
+7. 
+  'use strict';
+
+let calcName;
+
+function nAme(firstName){
+    if(firstName = 'herder'){
+        calcName = true;
+        console.log(calcName);
+      }
+    else{
+        calcName = false;
+        console.log(calcName);
+    }
+}
+
+nAme('herder'); 
+
+
+8. 
+let calcNumber;
+
+function number(holdNumber){
+    if(holdNumber >= 1000){
+        calcNumber = true;
+        console.log(calcNumber);
+      }
+    else{
+        calcNumber = false;
+        console.log(calcNumber);
+    }
+}
+
+number(50); 
+9. 
+
+function roep{
+consol.log('ik ben een schaap');
+}
+
+a. function roep(dier){
+  console.log('ik ben een ${dier});
+}
+
+10.
+the name is Frits and i 'am okish
+and my salary is 6000 and it just got doubled
+

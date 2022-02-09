@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body, .game-screen {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.score {
+    width: 100%;
+    height: 20%;
+    background-color: springgreen;
+    text-align: center;
+}
+.center {
+    display: flex;
+    height: 40%;
+}
+.number-1, .operator, .number-2 {
+    flex-grow: 1;
+    text-align: center;
+}
+.number-1 {
+    background-color: steelblue;
+}
+.operator {
+    background-color: teal;
+}
+
+.number-2 {
+    background-color: steelblue;
+}
+p {
+    position: relative;
+    top: 45%;
+    font-size: 30px;
+}
+#info {
+    left: 33%;
+    font-size: 20px;
+}
+.answer {
+    width: 100%;
+    height: 40%;
+    background-color: turquoise;
+    text-align: center;
+}
+#answer {
+    font-size: 2rem;
+    position: relative;
+    top: 45%;
+}
+#answerCheck {
+    font-size: 2rem;
+    position: relative;
+    top: 45%;
+    cursor: url('handtest.png'),auto;
+}
+
+.hidden {
+    display: none;
+  }
+  
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+  
+    background-color: white;
+    padding: 6rem;
+    border-radius: 5px;
+    box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.3);
+    z-index: 10;
+}
+  
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(3px);
+    z-index: 5;
+}

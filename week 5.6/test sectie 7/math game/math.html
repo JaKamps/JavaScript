@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="math.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="game-screen">
+        <div class="score">
+            <p>score: <span id="score">0</span></p>
+            <p id="info">2 number behind the dot max</p>
+        </div>
+        <div class="center">
+            <div class="number-1">
+                <p id="number-1">0</p>
+            </div>
+            <div class="operator">
+                <p id="operator">/</p>
+            </div>
+            <div class="number-2">
+                <p id="number-2">0</p>
+            </div>
+        </div>
+        <div class="answer">
+            <input type="number" id="answer"/>
+            <button id="answerCheck">answer me!</button>
+        </div>
+    </div>
+    <div class="modal hidden">
+        <button class="close-modal">&times;</button>
+        <h1>You Finished 10 sums in</h1>
+        <p id="time">0</p>
+        <p>you have</p>
+        <p id="good">0</p>
+        <p>good and</p>
+        <p id="wrong">0</p>
+        <p>wrong</p>
+        
+      </div>
+      <div class="overlay hidden"></div>
+    <script src="math.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+1. DOM is Document Object Model   en is the connection between the HTML document and the javascript code
+2. DOM manipulation is het aanpasen van een object 
+3. waneer de pagina word geladen
+4. de DOM is part of a libary of the browsers
+5. de querySelector selects a element
+6. querySelector selects one elements and querySelectorAll selects all
+7. A7
+8. A6
+9. A6 is een practige snelweg
+10. NaN
+11. A7A7
+12. A7A7A3
+13.een event is als er iets gebeurt
+14.   document.querySelector('.something').addEventListner('click', function (){
+    console.log('hello')
+})
+
+15. document.querySelector('body').style.backgroundColour = '#15FF00';
+
+
+
+1. a modal is a popup window
+2. een global event is een event dat niet op een bepaalde element word uitgevoerd maar op de hele pagina zo als het drukken van een key
+3. document.querySelector('btn').addEventListner('click', function {
+    console.log('hello world')
+})
+
+4. if you press a key while on the site it will activate the function that log's the key that you pressed
+
+5. when you press a key it will check if the code of the key you pressed is 27 if it is it will look if the modelElement.classList.contains('hidden')) isnt true if it isnt true then it will active the function openAndCloseModal();
+
+a.   document.addEventListner('keydown', function(event){
+        if(event.keyCode === 27 && !modelElement.classList.contains('hidden')) openAndCloseModal();
+})
+
+6. een event is wat er gebeurt op een website je kan er gebruik van maken met document.addEventListner(click, function())
+click is the event end function is wat er gebeurt als de event gebeurt
+
+
+
+
+1. innerhtml geeft alles weer van een element en childelement ook tags
+innertext laat text zien van alle child elementen 
+text content laat text zien die alleen voor opmaak textdoeleinden zijn bedoeld
+2. het laat de hele element zien  <div class='dic-item'>as</div>
