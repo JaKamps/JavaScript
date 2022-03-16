@@ -1,0 +1,27 @@
+dag -1 {
+ik heb mijn htlm en css gemaakt voor het yatzhee
+dag 1{
+ik heb mijn hele javascript verwijdert nadat ik er achter kwam dat het veel veel beter is om arrays te gebruiken
+ik heb mijn html en css gehouden wat beter kon is meer vragen
+ik heb nu een array gemaakt en hem aan een randommizer gezet
+en ik heb progress gemaakt aan de score checkers}
+
+dag 2{
+ik heb verder gewerkt aan de scorecheckers en what andere dingen
+}
+
+dag 3{
+ik heb de scoor checkers afgemaakt ik ik heb de dobbel steenen nu ook hun uiterlijk geven
+ik heb locks voor score's een werp limiet voor dat je een scoor moet keizen 
+ik ben bezig met de locks voor de dobble stenen
+klaar met het locking van dobbles
+nu ben ik het totaal aantall score aan het maken
+
+dag 4{ ik heb bug's er uit gehaald zo als dat sommige scores het niet doen 
+ik heb het totale score gefixs ik heb een reset functie gemaakt 
+
+
+
+
+// -1 is alles dat over is gebleven nadat ik mijn javascript code heb gepurged omdat ik het helemaal anders ging doen (veel effectiever)
+wat in totaal 1 dag is een programeren
